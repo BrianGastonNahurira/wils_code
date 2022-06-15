@@ -1,0 +1,88 @@
+@media(min-width:500px){
+    background-color: bisque;
+    color: red;
+    div{
+        color:rgb(177, 165, 165);
+    }
+    h3{
+        color:white;
+        
+    }
+    .footer{
+        display:grid;
+        grid-template-columns:1fr ;
+        background-color:mediumspringgreen;
+        height:400px;
+        margin-top:30px;
+        line-height: 2rem;
+        
+    }
+    
+    
+    
+    .t{
+         
+        display:flex;
+        flex-direction:row;
+        justify-content: space-between;
+        margin:20px 40px 40px 50px;
+    
+        
+    }
+    
+    #facebook,#twitter,#snap,#link,#insta,#whasa {
+      padding:6px;
+      margin: 3px;
+      border: 2px solid white;
+      font-size:2rem;
+      border-radius:2rem;
+    }
+    #twitter{
+        color:blue ;
+    }
+    #facebook{
+        color:navy;
+    
+    }
+    #link{
+        color:blueviolet;
+    
+    }
+    #insta{
+        color: maroon;
+    }
+    #whasa{
+        color: green;
+    }
+    #snap{
+        color:yellow;
+    }
+    
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

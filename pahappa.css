@@ -1,0 +1,26 @@
+.div1{
+    background-color:navy;
+    height: 80px;
+    color:white;
+}
+.div2{
+    background-color:black;
+    height: 310px;
+    color: white;
+}
+.web{
+    text-align: center;
+    font-size: 50px;
+    font-family: arial;
+    font-style:bold;
+    margin-top:70px;
+}
+.yo{
+    text-align:center;
+    font-size:24px;
+}
+.t{
+    text-align:right;
+
+    font-family:'Courier New', Courier, monospace;
+}
